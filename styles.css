@@ -1,1 +1,20 @@
 /*  your css code here. If applicable */
+.main{
+	width:50%;
+	height:40%;
+	text-align:center;
+	margin-left:100px;
+	padding: 10% 0%;
+	background:gray;
+	box-shadow:5px 10px 18px red;
+}
+.main img{
+	width:250px;
+	height:200px;
+}
+.main button{
+	background:red;
+	color:white;
+	border-radius:5px;
+}
+
